@@ -2,7 +2,8 @@
 
 I'm Otávia Bedeschi, a front-end developer making the leap from a background in graphic design and web design, racking up over 5 years of professional experience in the design world. Originally from Brazil and currently living in Portugal.
 
-Right now, I'm diving headfirst into JavaScript and React, sharpening my skills to rock it in front-end development. With my design background, I'm all about crafting cool and user-friendly web experiences. 
+Right now, I'm diving headfirst into JavaScript and React, sharpening my skills to rock it in front-end development. With my design background, I'm all about crafting cool and user-friendly web experiences.
+
 Back in Brazil, before diving into design and development, I was doing my thing in the EHS (Environment, Health, and Safety) field, where I got the scoop on environmental stuff, risk management, and following the rules (compliance and ISO audits).
 
 With a solid mix of design and development chops, I'm pumped to team up on projects that need a splash of creativity, innovation, and smooth user vibes. 
